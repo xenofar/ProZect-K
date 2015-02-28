@@ -4,6 +4,8 @@
 #include <windows.h>
 #include <htmlayout.h>
 
+HWND createwindow();
+
 int main(){
 	HWND hwnd = createwindow();
 	HTMLayoutLoadFile(hwnd, L".\\UI.html");
