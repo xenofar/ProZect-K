@@ -1,5 +1,7 @@
-ProZect K.cbp
-ProZect K.layout
-bin/
+*.cbp
+*.layout
+bin/*.exe
+bin/*.dll
 obj/
-ProZect K.depend
+*.depend
+*.cbTemp
