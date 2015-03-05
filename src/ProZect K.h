@@ -1,6 +1,6 @@
 #ifndef PROZECT_K_H_INCLUDED
 #define PROZECT_K_H_INCLUDED
 
-
+#define WIN32_LEAN_AND_MEAN
 
 #endif // PROZECT_K_H_INCLUDED
