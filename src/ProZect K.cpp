@@ -6,6 +6,8 @@
 
 HWND createwindow();
 
+struct _questions questions[500];
+
 int main(){
 	HWND hwnd = createwindow();
 	HTMLayoutLoadFile(hwnd, L".\\UI.html");
